@@ -1,0 +1,2 @@
+# tialrepo
+for wad practical
